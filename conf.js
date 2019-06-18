@@ -31,9 +31,7 @@ jsproxy_config({
       lines: [
         // 实验中...
         // 参考 https://github.com/EtherDream/jsproxy/tree/master/cf-worker
-        'nameless-resonance-c016.52o.workers.dev',
-        'https://nameless-resonance-c016.52o.workers.dev',
-        'nameless-resonance-c016.52o.workers.dev:8443',
+        'nameless-resonance-c016.52o.workers.dev:8443'
       ]
     }
   },
@@ -41,7 +39,7 @@ jsproxy_config({
   /**
    * 默认节点  
    */
-  node_default: 'cfworker',
+  node_default: 'aliyun-hk',
 
   /**
    * 加速节点
