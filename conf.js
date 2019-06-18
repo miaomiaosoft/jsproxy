@@ -31,7 +31,7 @@ jsproxy_config({
       lines: [
         // 实验中...
         // 参考 https://github.com/EtherDream/jsproxy/tree/master/cf-worker
-        'https://nameless-resonance-c016.52o.workers.dev:8443'
+        'nameless-resonance-c016.52o.workers.dev:8443'
       ]
     }
   },
