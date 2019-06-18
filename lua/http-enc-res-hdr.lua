@@ -112,7 +112,7 @@ end
 
 -- 节点切换功能，目前还在测试中（demo 中已开启）
 if nodeSwitched() then
-return
+  return
 end
 
 
